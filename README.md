@@ -10,4 +10,7 @@ This section was added in my local repository.
 
 1. Edit the README file using MacDown
 2. Save it
-3. 
+3. In the Git Desktop tool go to the repository
+4. Commit to the branch 
+5. Push origin
+6. Create Pull request 
