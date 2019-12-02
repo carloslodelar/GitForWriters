@@ -20,7 +20,13 @@ This section was added in my local repository.
 # Create a commit from Command Line 
 
 
-This is a test. I have edited and using `git add`
+This is a test. I have edited and using the sequence 
+
+`git add`
+
+`git commit` -m "texto"
+
+`git push`
 
 
 
