@@ -4,6 +4,8 @@ github for technical writers
 # Goal
 In this course you will learn how to use github to create documentation for your projects. 
 
+# Install Desktop tool
+
 # Use of Git Desktop tool 
 
 This section was added in my local repository.
@@ -14,3 +16,21 @@ This section was added in my local repository.
 4. Commit to the branch 
 5. Push origin
 6. Create Pull request 
+<<<<<<< Updated upstream
+
+# Create a commit from Command Line 
+
+
+This is a test. I have edited and using the sequence 
+
+`git add`
+
+`git commit` -m "texto"
+
+`git push`
+
+
+=======
+7. Check the online repository to look for your changes. 
+>>>>>>> Stashed changes
+
