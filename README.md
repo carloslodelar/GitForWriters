@@ -16,6 +16,7 @@ This section was added in my local repository.
 4. Commit to the branch 
 5. Push origin
 6. Create Pull request 
+7. 7. Check the online repository to look for your changes. 
 <<<<<<< Updated upstream
 
 # Create a commit from Command Line 
@@ -31,6 +32,6 @@ This is a test. I have edited and using the sequence
 
 
 =======
-7. Check the online repository to look for your changes. 
+
 >>>>>>> Stashed changes
 
